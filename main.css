@@ -4,3 +4,8 @@ body {
 	font-family: sans-serif;
 	font: helvetica;
 }
+
+.container {
+	width: 50%;
+	margin-left: 25%;
+}
